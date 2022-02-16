@@ -1,12 +1,12 @@
 {
   "name": "Games",
-  "4d": [
+  "digitFour": [
     "0xC0ceEb2BBD11ac1d6964D2e84182cb8ca3FAab17"
   ],
-  "5d": [
+  "digitFive": [
     "0x54eABD0e17D461E84C88673dBF278778db63A195"
   ],
-  "6d": [
+  "digitSix": [
     "0xF390DB1CA71488681A5Ac6bc58cD79Abd6C7E6B9"
   ],  
   "5g": [],    
