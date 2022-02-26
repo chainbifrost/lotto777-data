@@ -1,17 +1,14 @@
 {
   "name": "Games",
   "digitFour": [
-    "0x91Db6dC136c8AD356D30379Bda2DcA1845386760"
+    "0xA7e36fF99585Ba8A0EFE896521158434469320ee"
   ],
   "digitFive": [
-    "0x54eABD0e17D461E84C88673dBF278778db63A195"
+    "0xcA3242B00D2480EC1928EB2a7d6f1FbfAEd72b58"
   ],
   "digitSix": [
-    "0xF390DB1CA71488681A5Ac6bc58cD79Abd6C7E6B9"
+    "0xcecEE697C7013e5d54A9199Eb41E9d6Ef0d00201"
   ],  
   "ball5": [],    
-  "ball7": [],
-  "random": [
-    "0xC69aDb3180b8515Caae97Fe023026B026a32b983"
-  ]
+  "ball7": []
 }
